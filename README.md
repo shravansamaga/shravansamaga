@@ -1,5 +1,5 @@
 ## Hi there 👋
-# Hi, I'm Shravan Samaga 👋
+#I'm Shravan Samaga 👋
 
 ### Robotics & AI Engineering Student | Machine Learning | Computer Vision | Robotics
 
